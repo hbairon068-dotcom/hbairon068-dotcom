@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Bairon Hernández and i'm currently learning DAM
 
 <!--
 ** I am Bairon Hernández
